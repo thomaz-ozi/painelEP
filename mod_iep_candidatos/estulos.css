@@ -1,0 +1,13 @@
+/* CSS Document */
+
+#NFilhos{  padding:0px 0px; overflow:hidden;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none; 
+}
+.overflow{height:160px; margin-top:-20px;  overflow-x: hidden; overflow-y: scroll; border:#BCBCBC solid 1px;  } 
+#editEmprego{ display:none;}
+.PrintOcultaDiv{ display:none;}
+
+.linha1{ background-color:#EFEFEF;}

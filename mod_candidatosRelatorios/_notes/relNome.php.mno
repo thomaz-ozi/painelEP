@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:Codigo;datatype:int,name:Nome;datatype:string,name:DataNascimento;datatype:datetime,name:Objetivo;datatype:blob,name:NFilhos;datatype:string,name:IdadeFilhos;datatype:string,name:Escolaridade;datatype:string,name:EstadoCivil;datatype:string,name:Endereco;datatype:string,name:Bairro;datatype:string,name:Cidade;datatype:string,name:Estado;datatype:string,name:CEP;datatype:string,name:Telefone1;datatype:string,name:Telefone2;datatype:string,name:Telefone3;datatype:string,name:EMail;datatype:string,name:CPF;datatype:string,name:RG;datatype:string,name:CNH;datatype:string,name:DataRegistro;datatype:timestamp,name:id_usuario;datatype:int,name:DataRegistroAlterado;datatype:datetime" />
+</info>

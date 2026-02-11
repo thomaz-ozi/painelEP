@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:Codigo;datatype:int,name:Nome;datatype:string" />
+	<infoitem key="UD_list_objetivos" value="name:Objetivo;datatype:string,name:IdObjetivo;datatype:int,name:descricao;datatype:string,name:id_usuario;datatype:int,name:DataRegistro;datatype:datetime,name:DataRegistroAlt;datatype:datetime" />
+</info>

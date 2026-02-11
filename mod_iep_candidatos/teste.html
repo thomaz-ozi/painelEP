@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TESTE UPFILE
+</title>
+
+
+    <link href="Input%20File%20-%20Popover%20Preview%20Image%20-%20Bootsnipp.com_arquivos/bootstrap.css" rel="stylesheet" id="bootstrap-css">
+        <script src="Input%20File%20-%20Popover%20Preview%20Image%20-%20Bootsnipp.com_arquivos/jquery-1.js"></script>
+    <script src="Input%20File%20-%20Popover%20Preview%20Image%20-%20Bootsnipp.com_arquivos/bootstrap.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
+
+
+
+
+
+<script src="../sistema_funcoes/fileUploadImg.js"></script>
+<link rel="stylesheet" type="text/css" href="../sistema_funcoes/fileUploadImg.css">
+</head>
+
+<body>
+
+
+
+   <form action="upload_completo.php" method="post" enctype="multipart/form-data">
+
+        <div class="col-xs-12 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">  
+            <!-- image-preview-filename input [CUT FROM HERE]-->
+            <div class="input-group image-preview" data-original-title="" title="">
+                <input class="form-control image-preview-filename" disabled="disabled" type="text"> <!-- don't give a name === doesn't send on POST/GET -->
+                <span class="input-group-btn">
+                    <!-- image-preview-clear button -->
+                    <button type="button" class="btn btn-default image-preview-clear" style="display:none;">
+                        <span class="glyphicon glyphicon-remove"></span> 
+                    </button>
+                    <!-- image-preview-input -->
+                    <div class="btn btn-default image-preview-input">
+                        <span class="glyphicon glyphicon-folder-open"></span>
+                        <span class="image-preview-input-title"></span>
+                        <input accept="image/png, image/jpeg, image/gif" name="fileToUpload" type="file"> <!-- rename it -->
+                    </div>
+                </span>
+            </div><!-- /input-group image-preview [TO HERE]--> 
+        </div>
+        <button >enviar</button>
+</form>
+
+<br>
+
+<textarea class="form-control col-md-7 col-xs-12" style="height:20px;" rows="1"></textarea><input type="text">
+</body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_objetivos" value="name:Objetivo;datatype:string,name:IdObjetivo;datatype:int,name:descricao;datatype:string,name:id_usuario;datatype:int,name:DataRegistro;datatype:datetime,name:DataRegistroAlt;datatype:datetime" />
+	<infoitem key="UD_list_acao_observacao" value="name:Codigo;datatype:int,name:Observacoes;datatype:string,name:DataRegistroObs;datatype:datetime,name:IdObser;datatype:int,name:StatusRegistro;datatype:int,name:StatusRegistro_DataInativo;datatype:datetime,name:id_usuario;datatype:int" />
+	<infoitem key="UD_list_acao_emprego" value="name:Codigo;datatype:int,name:EmpregoEmpresa;datatype:string,name:EmpregoCargo;datatype:string,name:EmpregoDataEntreda;datatype:datetime,name:EmpregoDataSaida;datatype:datetime,name:EmpregoMotivoSaida;datatype:string,name:DataRegistroEmp;datatype:datetime,name:EmpregoCidade;datatype:string,name:IdEmprego;datatype:int,name:id_usuario;datatype:int,name:StatusRegistro;datatype:int,name:StatusRegistro_DataInativo;datatype:datetime" />
+</info>
