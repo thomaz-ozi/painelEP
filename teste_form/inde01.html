@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>formula Requerd </title>
+</head>
+<script src="../sistema/ckeditor/ckeditor.js"></script>
+
+  <link href="../sistema_jquery/css/" rel="stylesheet">
+<script src="../sistema_jquery/js/jquery-1.9.1.js"></script>
+<script src="../sistema_jquery/js/jquery-ui-1.10.3.custom.js"></script>
+<script src="../js/simpleupload/simpleupload.mim.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../sistema_aparencia/custom_jqueryui.css">
+<script src="../sistema_funcoes/jq_mascaras.js"></script>
+<script src="../sistema_funcoes/jq_maskmoney.js"></script>
+<script src="../sistema_funcoes/js_mods.js"></script><script src="../sistema_funcoes/includeJs.js"></script>
+
+<body>
+	
+<form action="?Codigo=<?php echo $row_list_acao['Codigo']; ?>&conteudo=candidatos-alt"   method="POST" enctype="multipart/form-data" name="acao" id="acao" >
+
+	
+	<input name="nome" id="nome" placeholder="NOME" value="">
+	<input name="email" id="email" placeholder="email" value="">
+	<input name="fone" id="fone" placeholder="fone" value="">
+	
+	
+	
+	<button type="button" 
+onClick="loadsDataFormFile('#PesquisaAvancadaLoad','../mod_iep_candidatos/fotos_acao_add_get.php','#acao','&Codigo=<?php echo $Codigo;  ?>&conteudo=candidatos&Objetivo=<?php echo $_GET['Objetivo'];?>&xBairro=<?php echo $_GET['xBairro'];?>','','../mod_iep_candidatos/acao_alt_load.php')"
+ class="btn btn-success">&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-save"></i> Salvar &nbsp;&nbsp;&nbsp;&nbsp;</button>
+	
+	</form>
+	
+</body>
+</html>
