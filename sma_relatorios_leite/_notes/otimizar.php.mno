@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_ultimo_inicio" value="name:id_otimizar;datatype:int,name:status_otimizar;datatype:int,name:data_otimizar;datatype:date,name:data_otimizar_ultimo;datatype:date" />
+	<infoitem key="UD_list_ultimo_fim" value="name:id_otimizar;datatype:int,name:status_otimizar;datatype:int,name:data_otimizar;datatype:date,name:data_otimizar_ultimo;datatype:date" />
+	<infoitem key="UD_list_manejo" value="name:id_manejo;datatype:int,name:id_local;datatype:int,name:id_usuario;datatype:int,name:data;datatype:date,name:tipo_manejo;datatype:int,name:descricao;datatype:string,name:id_manejo_class;datatype:int" />
+</info>

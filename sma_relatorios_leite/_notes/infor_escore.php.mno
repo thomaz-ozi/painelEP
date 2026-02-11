@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_escore;datatype:int,name:condicao;datatype:string,name:descricao;datatype:string" />
+</info>

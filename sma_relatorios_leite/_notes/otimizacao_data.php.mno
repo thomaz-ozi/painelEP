@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_otim" value="name:id_otimizar;datatype:int,name:data_otimizar;datatype:datetime,name:status_otimizar;datatype:int" />
+</info>

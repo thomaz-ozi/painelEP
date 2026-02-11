@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list" value="name:id_texto;datatype:int,name:texto;datatype:string,name:foto;datatype:string,name:link;datatype:string,name:conteudo;datatype:int,name:imagem;datatype:string,name:meta_title;datatype:string,name:meta_description;datatype:string,name:meta_keywords;datatype:string" />
+	<infoitem key="UD_list_acao" value="name:id_class_usuario;datatype:int,name:nome_class;datatype:string,name:descricao;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_femea_status" value="name:id_manejo_femea;datatype:int,name:id_manejo;datatype:int,name:id_femea_status_tipo;datatype:int" />
+</info>

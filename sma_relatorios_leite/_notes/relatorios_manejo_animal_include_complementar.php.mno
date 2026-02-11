@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_complementar" value="name:id_complementar;datatype:int,name:id_animais_peso;datatype:int,name:id_fazenda;datatype:int,name:id_medicamento;datatype:int,name:descricao;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_animal_manejo_tipo" value="name:id_manejo;datatype:int,name:tipo_manejo;datatype:int" />
+	<infoitem key="UD_list_manejo_animais_custo_med" value="name:qtdd;datatype:int,name:valor_custo;datatype:real" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_include" value="name:data;datatype:date,name:leite_valor_estimado_soma;datatype:real,name:leite_qtdd_soma;datatype:real" />
+</info>

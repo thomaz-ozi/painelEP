@@ -1,0 +1,22 @@
+th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
+.destacar {
+	 background:#444; 
+	 color:#fff;
+}
+
+tbody {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #333;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+}

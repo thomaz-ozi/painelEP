@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_animais;datatype:int,name:soma_kilo_animal;datatype:real,name:kilo_custo;datatype:real,name:extra_custo;datatype:real,name:custo_alimentacao;datatype:real,name:periodo_total_dias;datatype:real" />
+</info>

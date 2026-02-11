@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_otimizar_leite_relatorios;datatype:int,name:id_animais;datatype:int,name:cod_animal;datatype:string,name:data_registro;datatype:date,name:leite_qtdd_litros;datatype:real,name:valor_venda_litros;datatype:real,name:faturado;datatype:real,name:alimentacao_qtdd_concentrado;datatype:real,name:alimentacao_custo_concentrado;datatype:real,name:alimentacao_qtdd_volumoso;datatype:real,name:alimentacao_custo_columoso;datatype:real,name:alimentacao_qtdd_mineral;datatype:real,name:alimentacao_custo_mineral;datatype:real,name:alimentacao_custo_total;datatype:real,name:custos_mao_obra;datatype:real,name:custos_outros;datatype:real,name:custos_medicamentos;datatype:real,name:custos_total_geral;datatype:real,name:custo_litro;datatype:real,name:rentabilidade_litros;datatype:real,name:rentabilidade_animal;datatype:real" />
+	<infoitem key="UD_list_form" value="name:id_lote;datatype:int,name:nome;datatype:string" />
+	<infoitem key="UD_list_animal_class" value="name:id_animal_class;datatype:int,name:nome;datatype:string" />
+</info>

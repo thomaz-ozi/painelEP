@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_tipo_manejo" value="name:tipo_manejo;datatype:int,name:nome;datatype:string" />
+	<infoitem key="UD_list_acao" value="name:id_animais;datatype:int,name:cod_animal;datatype:string,name:id_local;datatype:int,name:razao_social;datatype:string,name:id_raca;datatype:int,name:nome_raca;datatype:string,name:id_usuario;datatype:int,name:nome_parceiro;datatype:string,name:id_animal_class;datatype:int,name:nome_class;datatype:string,name:id_lote;datatype:int,name:nome_lote;datatype:string,name:id_setor;datatype:int,name:nome_setor;datatype:string,name:nome;datatype:string,name:sexo;datatype:int,name:nome_sexo;datatype:string,name:data_nasc;datatype:date,name:id_animal_pai;datatype:int,name:id_animal_mae;datatype:int,name:id_origem;datatype:int,name:nome_origem;datatype:string,name:ativo;datatype:int,name:nome_ativo;datatype:string,name:data_inativo;datatype:date,name:custo_animal;datatype:real,name:peso;datatype:real,name:img1;datatype:string,name:ultimo_leite;datatype:real,name:descricao;datatype:string" />
+	<infoitem key="UD_list_animal_class" value="name:id_manejo_class;datatype:int,name:nome;datatype:string" />
+</info>

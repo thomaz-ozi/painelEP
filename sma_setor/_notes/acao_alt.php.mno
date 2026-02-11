@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_alt" value="name:id_clientes;datatype:int,name:grupo;datatype:string,name:pessoa;datatype:string,name:cliente;datatype:string,name:razao_social;datatype:string,name:cnpj;datatype:string,name:data_nasc;datatype:string,name:celular;datatype:string,name:fone1;datatype:string,name:ramal1;datatype:string,name:fone2;datatype:string,name:ramal2;datatype:string,name:endereco;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:cep;datatype:string,name:complemento;datatype:string,name:email;datatype:string,name:msn;datatype:string,name:skype;datatype:string,name:obs;datatype:string,name:empresa;datatype:string,name:web_site;datatype:string,name:situacao_cadastral;datatype:string,name:atividade_economica;datatype:string,name:responsavel;datatype:string,name:cpf_responsavel;datatype:string" />
+	<infoitem key="UD_list_acao" value="name:id_setor;datatype:int,name:id_fazenda;datatype:int,name:id_usuario;datatype:int,name:nome;datatype:string,name:altura;datatype:real,name:largura;datatype:real,name:descricao;datatype:string" />
+	<infoitem key="UD_list_fazendas" value="name:id_fazenda;datatype:int,name:razao_social;datatype:string,name:fantasia;datatype:string,name:cnpj;datatype:string" />
+</info>

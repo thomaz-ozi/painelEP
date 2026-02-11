@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_func" value="name:id_manejo_funcionario;datatype:int,name:id_manejo;datatype:int,name:id_funcionarios;datatype:int,name:x_manejo_funcionario;datatype:string" />
+</info>

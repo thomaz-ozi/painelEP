@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_dim" value="name:id_img_dim;datatype:int,name:largura;datatype:string,name:altura;datatype:string,name:nome_dimencao;datatype:string,name:posicao;datatype:string" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_alimentacao" value="name:id_manejo_alimentacao;datatype:int,name:id_alimentacao;datatype:int,name:id_manejo;datatype:int,name:id_fazenda;datatype:int,name:kilo_animal;datatype:int" />
+	<infoitem key="UD_list_manejo_alimentacao" value="name:id_manejo_alimentacao;datatype:int,name:id_produtos;datatype:int,name:nome_produto;datatype:blob,name:id_manejo;datatype:int,name:id_local;datatype:int,name:kilo_animal;datatype:real,name:kilo_custo;datatype:real,name:valor_total;datatype:real" />
+	<infoitem key="UD_list_periodo" value="name:id_periodo;datatype:int,name:id_manejo;datatype:int,name:data_inicial;datatype:date,name:data_final;datatype:date,name:id_local;datatype:int" />
+	<infoitem key="UD_list_produtos_class" value="name:id_subcategoria;datatype:int,name:id_categoria;datatype:int,name:nome_subcategoria;datatype:string,name:descricao;datatype:string,name:id_local;datatype:int" />
+	<infoitem key="UD_list_produtos" value="name:id_produtos;datatype:int,name:id_categoria;datatype:int,name:id_subcategoria;datatype:int,name:nome_produto;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_alimentacao" value="name:valor_total_soma;datatype:real" />
+</info>

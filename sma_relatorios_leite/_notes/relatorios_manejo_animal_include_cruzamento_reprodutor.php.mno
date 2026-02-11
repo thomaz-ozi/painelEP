@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_animais_cruzamento" value="name:id_manejo_animais;datatype:int,name:data;datatype:date,name:cod_animal;datatype:string,name:id_animais;datatype:int,name:peso;datatype:int,name:id_usuario;datatype:int,name:id_local;datatype:int,name:id_lote;datatype:int,name:id_setor;datatype:int,name:id_manejo;datatype:int,name:tipo_manejo;datatype:int,name:id_animal_class;datatype:int,name:id_origem;datatype:int,name:id_raca;datatype:int,name:sexo;datatype:int,name:id_animal_pai;datatype:int,name:id_animal_mae;datatype:int" />
+</info>

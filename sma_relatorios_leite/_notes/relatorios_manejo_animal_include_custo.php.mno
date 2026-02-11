@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_manejo_maoobra;datatype:int,name:id_manejo;datatype:int,name:id_animais;datatype:int,name:data_inicial;datatype:date,name:data_final;datatype:date,name:pediodo;datatype:int,name:valor_mao_obra;datatype:real,name:qtdd_animais;datatype:int,name:valor_animais_dia;datatype:real" />
+</info>

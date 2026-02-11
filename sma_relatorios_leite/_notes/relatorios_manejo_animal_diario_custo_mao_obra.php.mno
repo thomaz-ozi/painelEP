@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_custo_mo" value="name:valor_animais_dia_soma;datatype:real" />
+	<infoitem key="UD_list_custo_mo_mo" value="name:valor_animais_dia_soma;datatype:real" />
+</info>

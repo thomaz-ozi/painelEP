@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_filtro_setor" value="name:id_setor;datatype:int,name:id_local;datatype:int,name:id_usuario;datatype:int,name:nome;datatype:string,name:largura;datatype:real,name:altura;datatype:real,name:descricao;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_alt" value="name:id_vendas_cadastro_agenda;datatype:int,name:horas;datatype:time,name:data;datatype:date,name:titulo;datatype:string,name:texto;datatype:string,name:id_vendas_cadas;datatype:int" />
+	<infoitem key="UD_list_func_setor" value="name:id_funcionario_setor;datatype:int,name:nome_setor;datatype:string" />
+	<infoitem key="UD_list_acao_agenda" value="name:id_vendas_cadastro_agenda;datatype:int,name:id_horas;datatype:int,name:data;datatype:date,name:titulo;datatype:string,name:texto;datatype:string,name:id_vendas_cadas;datatype:int,name:agendar;datatype:int" />
+</info>

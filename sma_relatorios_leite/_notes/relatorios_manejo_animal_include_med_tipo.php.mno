@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_med" value="name:id_manejo_medicamentos;datatype:int,name:id_manejo;datatype:int,name:id_produtos;datatype:int,name:nome_produto;datatype:string,name:id_local;datatype:int,name:descricao;datatype:string,name:qtdd;datatype:int,name:valor_custo;datatype:real,name:valor_total;datatype:real,name:restricao;datatype:int" />
+</info>

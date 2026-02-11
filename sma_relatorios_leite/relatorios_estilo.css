@@ -1,0 +1,139 @@
+/* CSS Document */
+body{ background-color:#4F5118; margin-top: 5px; font-family:Arial, Helvetica, sans-serif; }
+a:link {	color:#000;	text-decoration: none;}
+a:active {	color: #F1ECD1;	}
+a:visited {	color: #000; background-color:#F1ECD1;	}
+a:hover{ color:#F1ECD1; text-decoration: none;}
+label{ font-size:12px;}
+#loading_fundo{position:absolute; position:fixed; left:0px; display:block; top:0px; width:100%;  height: auto; min-height:100%; z-index:1; background-image: url(../images/fundoBlackTransp.png);  border: 1px none #000000;}
+
+#loading_conteudo{
+	position:absolute;
+	display:block;
+	top:144px;
+	left:797px;
+	width:auto;
+	height: auto;
+	min-height:100%;
+	z-index:1;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#CCC;
+	font-weight:bolder;
+	text-shadow: 4px 4px 3px #000;
+}
+
+
+.rel_table{ width:98%;  box-shadow: 0 0 2px 2px #000; border-radius: 5px; margin:5px;  margin:auto;}
+.rel_table td{ padding-right:2px;}
+
+.rel_subtitulo{background-color:#61641E; border:#FFF solid 1px; font-family:Arial, Helvetica, sans-serif; color:#FFF; font-size:12px; text-indent:3px;}
+.rel_informacoes{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #4F5118;
+	
+	background-color: #F8F5E5;
+	font-weight: bold;
+}
+.subText{ font-size:9px;}
+.rel_titulo{
+	 background-color: #F8F5E5;
+	background-image: url("../sistema_aparencia/skin/cabanha/barra-indece_2.png");
+	background-position: 30px center;
+	/*color: #363711;*/
+	color:#FFF;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 30px;
+	text-indent: 5px; 
+}
+.rel_titulo_fim{	background-image: url("../sistema_aparencia/skin/cabanha/barra-indece_2.png");		line-height: 28px;}
+
+.rel_opcoes{
+background-color: #F8F5E5;
+	background-image: url("../sistema_aparencia/skin/cabanha/barra-indece_2.png");
+	background-position: 30px center;
+	/*color: #363711;*/
+	color:#FFF;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 30px;
+	text-indent: 5px; 
+}
+.rel_info{	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #000;	padding-left: 5px;}
+.rel_info2{	font-family:Verdana, Geneva, sans-serif;	font-size:10px; }
+.rel_info_titulo{	color:#FFF; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:10px;   }
+
+.rel_cod_animal:hover{ color:#CCC; background-color:#000;cursor:pointer;}
+.form_pesquisa{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #4F5118;
+	background-color: #F8F5E5;
+	padding-left: 5px;
+	border:0px
+}
+.form_pesquisa_input{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #4F5118;
+	padding-left: 5px;
+	}
+.form_box_texto{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #4F5118;
+	background-color: #fff;
+	padding-left: 5px;
+	border: 1px solid #4F5118;
+	}
+.form_tiulo{
+	float:right;
+	height: 20px;
+	background-image: url("../sistema_aparencia/skin/cabanha/barra-indece_2.png");
+	border: 0px;
+	
+	padding-left: -2px;
+	padding-top:5px; 	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:bold;
+	color: #FFF;
+	}
+
+.form_conteudo{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-color: #FFF;
+	padding-left: 5px;
+	border:0px
+	}
+	
+.linha{	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #000;	background-color:#E8E8E8;	padding-left:5px;}
+.linha1{	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #000;	background-color:#FFF;	padding-left:5px;}
+.linha1:hover{	color:#F1ECD1;	background-color:#4F5118;}
+
+.linha2{	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #000;	background-color:#F1ECD1;	padding-left:5px;}
+.linha2:hover{	color:#F1ECD1;	background-color:#4F5118;}
+
+.ordem{ height:17px; width:10px; float:left; background-image:url(../sistema_aparencia/skin/cabanha/ordem-8x16.png); cursor:pointer; }
+.ordem_desc{height:17px; width:10px; float:left; background-image:url(../sistema_aparencia/skin/cabanha/ordem_desc10x16.png); cursor:pointer;}
+.ordem_asc{height:17px; width:10px; float:left; background-image:url(../sistema_aparencia/skin/cabanha/ordem_asc-10x16.png);  cursor:pointer;}
+
+.coluna_titulo_pre{ color:#FFF; background-color:#3C3D12; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo_pre_azul{ color:#FFF; background-color:#7A9DBA; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo_pre_vemelho{ color:#FFF; background-color:#CF6D63; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo_pre_laranja{ color:#FFF; background-color:#EBBA72; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo_pre_verde{ color:#FFF; background-color:#61721E; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo_pre_cinza{ color:#FFF; background-color:#9D9F88; text-transform:uppercase;   font-size: 12px; text-align:center;}
+.coluna_titulo{border-left:#C7C88C solid 1px;}
+.coluna_conteudo{border-left:#9A9D2F  solid 1px; padding-left:2px; }
+.clear{	clear:both;	}
+#divXls{ background-image:url(icons/xls2.png); width:25px; height:24px; float:left; margin-left:5px; cursor:pointer;}
+#divXls:hover{background-image:url(icons/xls.png);}
+#divHtml{ background-image:url(icons/html2.png); width:26px; height:28px; float:left; margin-left:5px;cursor:pointer;}
+#divHtml:hover{background-image:url(icons/html.png);}
