@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao_fazenda" value="name:id_fazenda;datatype:int,name:razao_social;datatype:string,name:fantasia;datatype:string,name:endereco;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:fone1;datatype:string,name:ramal1;datatype:string,name:cnpj;datatype:string" />
+</info>

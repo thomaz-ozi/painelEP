@@ -1,0 +1,33 @@
+/* CSS Document */
+
+
+/*
+personalizar JQUERY UI
+*/
+.ui-widget-header {
+    /*border: 1px solid #CCE1F1;*/
+	border: 1px solid #EFEFEF;
+	background-color:#F8F9FA;
+	background-image:none;
+	color:#2e6e9e;
+}
+
+  
+  
+
+	  
+	  
+.ui-datepicker-today .ui-state-default, .ui-widget-content .ui-state-default{
+	  border: 1px solid #E0750A;
+	  }
+	  
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    border: 1px solid #c5dbec;
+   background:none;
+	background-color:#FFF;
+    font-weight: bold;
+    color: #2e6e9e;
+}
+
+ 

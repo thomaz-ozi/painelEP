@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_painal_fazenda" value="name:id_fazenda;datatype:int,name:fantasia;datatype:string" />
+</info>

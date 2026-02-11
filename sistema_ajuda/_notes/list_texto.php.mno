@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_texto" value="name:id_texto;datatype:int,name:botao_pg;datatype:string,name:pg;datatype:string" />
+</info>

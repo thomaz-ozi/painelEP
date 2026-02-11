@@ -1,0 +1,280 @@
+/* CSS Document */
+
+
+/* -------------------------------------->  ACTIONS <---------------------------------- */
+.text_add{ color:#3590D1;}
+.text_alt{ color:#469354;}
+.text_del{ color:#972325;}
+.text_can{ color:#BCAB0B;}
+
+.options_action_doc{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_doc:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_doc_report{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_report.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_doc_report:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_doc_img{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_img.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_doc_img:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_docs{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_docs.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_docs:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_add{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_add.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_add:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+.options_action_edit{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_edit.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_edit:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_del{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_del.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none;  background-color:transparent;}
+.options_action_del:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_can{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_can.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none;  background-color:transparent;}
+.options_action_can:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_view{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_view.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_view:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_search{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_search.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_search:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_details{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_details.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_details:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_doc_link{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_link.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_doc_link:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+/*/----------------> SECUNDARIO */
+.options_action_add_sec{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_add_sec.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_add_sec:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_edit_sec{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_edit_sec.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_edit_sec:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_del_sec{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_del_sec.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_del_sec:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_can_sec{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_can_sec.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_can_sec:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_doc_check_sec{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_check_sec.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_doc_check_sec:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+/*--------------> FUNÇÕES*/
+
+.options_action_link{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_link.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_link:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_link_doc{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_link_doc.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_link_doc:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_link_window{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_link_window.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_link_window:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+
+.options_action_resize{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_resize.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_resize:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+
+
+.options_action_tips{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_tips.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_tips:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_doc_waning_1{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_waning_1.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_doc_waning_1:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_doc_waning_2{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_waning_2.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_doc_waning_2:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_down{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_down.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_down:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_up{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_up.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto; ;  border:none; background-color:transparent;}
+.options_action_up:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_print{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_print.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_print:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+
+/*APPLICATION*/
+
+.options_action_local{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_local.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_local:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_doc_sub{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_doc_sub.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_doc_sub:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.bt_cep{ width:25px; height:25px; background-size:22px 22px; background-image:url(../sistema_aparencia/icons/bt_cep.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.bt_cep:hover {background-size:25px 25px; background-position:0px 0px;}
+
+.options_action_appl_warning_1{ width:25px; height:25px; background-size:22px 22px; background-image:url(../sistema_aparencia/icons/options_action_appl_warning_1.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_appl_warning_1:hover {background-size:25px 25px; background-position:0px 0px;}
+
+
+.options_action_appl_warning_2{ width:25px; height:25px; background-size:22px 22px; background-image:url(../sistema_aparencia/icons/options_action_appl_warning_2.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_appl_warning_2:hover {background-size:25px 25px; background-position:0px 0px;}
+
+
+/*FINANCEIRO - CUSTOMIZADO*/
+.options_action_fin_pay{ width:30px; height:30px; background-size:26px 26px;background-image:url(icons/options_action_fin_pay.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_fin_pay:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+/*tempo*/
+.options_action_time_ampulheta{ width:30px; height:30px; background-size:26px 26px;background-image:url(icons/options_action_time_ampulheta.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_time_ampulheta:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_time_calendar{ width:30px; height:30px; background-size:26px 26px;background-image:url(icons/options_action_time_calendar.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_time_calendar:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_time_clock{ width:30px; height:30px; background-size:26px 26px;background-image:url(icons/options_action_time_clock.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_time_clock:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+/*E-MAIL*/
+
+
+.options_action_email{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_email.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_email:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+.options_action_email_check{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_email_check.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_email_check:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_email_del{ width:30px; height:30px; background-size:26px 26px; background-image:url(../sistema_aparencia/icons/options_action_email_del.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_email_del:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_email_down{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_email_down.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_email_down:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_email_next{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_email_next.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;  border:none; background-color:transparent;}
+.options_action_email_next:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_email_text{ width:30px; height:30px; background-size:26px 26px; background-image:url(../sistema_aparencia/icons/options_action_email_text.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_email_text:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_email_update{ width:30px; height:30px; background-size:26px 26px; background-image:url(../sistema_aparencia/icons/options_action_email_update.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_email_update:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_email_upload{ width:30px; height:30px; background-size:26px 26px; background-image:url(../sistema_aparencia/icons/options_action_email_upload.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  border:none; background-color:transparent; }
+.options_action_email_upload:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+/*FILE*/
+
+.options_action_file{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+.options_action_file_doc{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_doc.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_doc:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+.options_action_file_audio{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_audio.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_audio:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_file_image{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_image.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_image:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_file_video{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_video.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_video:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+.options_action_file_exe{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_exe.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_exe:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_file_pdf{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_pdf.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_pdf:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_file_rar{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_rar.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_rar:hover {background-size:30px 30px; background-position:0px 0px;}
+
+.options_action_file_zip{ width:30px; height:30px; background-size:26px 26px;background-image:url(../sistema_aparencia/icons/options_action_file_zip.png); background-repeat:no-repeat; background-position:2px 2px;  cursor:pointer; margin:auto;   border:none; background-color:transparent;}
+.options_action_file_zip:hover {background-size:30px 30px; background-position:0px 0px;}
+
+
+
+
+
+/* --------------------------------------> BUTTONS <---------------------------------- */
+.bt_next{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_next.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_next:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_back{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_back.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_back:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_del{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_del.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_del:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_refresh{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_refresh.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_refresh:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_cancel{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_cancel.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_cancel:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_close{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_close.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;border:none; background-color:transparent;}
+.bt_close:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_clear{ width:28px; height:28px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_clear.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_clear:hover {background-size:28px 28px; background-position:0px 0px;}
+
+.bt_save{ width:26px; height:26px;  background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_save.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px; border:none; background-color:transparent;}
+.bt_save:hover {background-size:26px 26px; background-position:0px 0px;}
+
+.bt_list{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/icon_list.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_list:hover {background-size:26px 26px; background-position:0px 0px;}
+
+
+.bt_check{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_check.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_check:hover {background-size:24px 24px; background-position:0px 0px;}
+
+.bt_log{ width:26px; height:26px; background-size:24px 24px; background-image:url(../sistema_aparencia/icons/bt_log.png); background-repeat:no-repeat; background-position:0px 0px;  cursor:pointer; margin:auto;  margin-left:8px;  border:none; background-color:transparent;}
+.bt_log:hover {background-size:26px 26px; background-position:0px 0px;}
+
+
+
+/*----------------------------------------------------------------->  BUTTON IMAGENS<-----------------------------------------------------------------*/
+
+.bt_search{  width:145px; height:27px; background: url(../sistema_aparencia/icons/bt_search.png) no-repeat  scroll 0 0 transparent; border:0; cursor:pointer;  border:none; background-color:transparent;}
+.bt_search:hover{ width:145 px; height:27px; background:url(../sistema_aparencia/icons/bt_search_hover.png) no-repeat scroll 0 0 transparent;}
+
+
+/*-----------------------------------------------------------------> FROM<-----------------------------------------------------------------*/
+
+
+

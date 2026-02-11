@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_ajuda;datatype:int,name:id_classe01;datatype:int,name:id_usuario;datatype:int,name:xNome;datatype:string,name:descricao;datatype:string,name:img1;datatype:string,name:img_titulo1;datatype:string,name:largura1;datatype:string,name:altura1;datatype:string,name:nome_dimencao1;datatype:string,name:ativo;datatype:int" />
+</info>

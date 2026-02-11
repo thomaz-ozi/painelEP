@@ -1,0 +1,21 @@
+/* CSS Document */
+.form_absolute {
+    background-image: url("fundoBlackTransp.png");
+    height: 108%;
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    z-index: 1500;
+}
+
+/*--------------------------------------> FeedBack <----------------------------------*/
+/*.form_feedback_absolute{ position:absolute; width:100%; top:30px; height:108%; background-image:url(../images/fundDiv.png); z-index: 1500; }*/
+.form_feedback{ width:300px;  margin:auto; ;
+		-webkit-box-shadow: 1px 1px 3px 3px #666;
+		-moz-box-shadow: 1px 1px 3px 3px #666;
+		box-shadow: 1px 1px 3px 3px #666
+}
+.form_feedback_title	{ height:23px; background-image:url(../images/window-titleBar-content.png); font-family:Verdana; font-size:12px; font-weight:bold; padding: 7px 0 0 10px;}
+.form_feedback_msn		{ background-color:#FFF; border: 2px #FFF solid}
+.form_fck_msn_er		{ font-size:9px; color:#666;}
+.form_feedback_button	{ background-color:#FFF; text-align:center; border: 2px #FFF solid; height: 95px;}

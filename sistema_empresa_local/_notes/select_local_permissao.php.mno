@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_fazenda;datatype:int,name:razao_social;datatype:string,name:fantasia;datatype:string,name:cnpj;datatype:string" />
+	<infoitem key="UD_list_acao_permissao_permissao" value="name:id_permissao_empresa_local;datatype:int,name:id_usuario;datatype:int,name:id_fazenda;datatype:int" />
+</info>

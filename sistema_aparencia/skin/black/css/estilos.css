@@ -1,0 +1,126 @@
+/* CSS Document */
+
+
+/**/
+.div_absolute{
+	background-image: url("../fundoBlackTransp.png");
+    border: 1px none #000000;
+    height: 100%;
+    left: 0;
+    position: absolute;
+	position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+.div_absolute_msn{
+	position:absolute; 
+	left:0px;
+	display:block;
+	top:0px;
+	width:100%;
+	height:auto;
+	min-height:100%;
+	z-index:2;
+}
+/*LOADING*/
+.loadsData{
+	width:66px;
+	height:66px;
+	background-image:url(../../../icons/loading01.gif);
+	}
+.loadsDataSimples{
+	
+	width:26px;
+	height:26px;
+	background-position:-6px -6px; 
+	background-image:url(../../../icons/loading00.gif);
+	border:none;
+	background-color:transparent;
+	}
+.loading_barra{ 
+	width:216px;
+	height:40px;
+	background-image:url("../loadingBar.gif");
+	background-repeat:no-repeat;
+	
+	}
+.msn_txt{ 
+	margin:auto;
+	width:500px;
+	background-image: url("../fundo.png");
+		}
+
+/**/
+.linhas{
+	font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-indent: 5px;
+	background:#FFF;
+	background-image: url("../fundo.png");
+	background-repeat:repeat-x;
+	cursor:hand;
+	
+	}
+	
+.linhas1{
+	font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-indent: 5px;
+	background-image: url("../fundo.png");
+	cursor:hand;
+	}
+.linhas1:hover{
+	background-image:url("../barra-indece.png")
+	}
+.linhas2{
+	font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-indent: 5px;
+	background-image: url("../fundo2.png");
+	cursor:hand;
+	}
+.linhas2:hover{
+	background-image:url("../barra-indece.png")
+	}
+
+/*APLICATIVOS*/
+#list_qtdd{width:50px;}
+/*OBJETOS*/
+input{height:22px; text-indent:5px; margin:1px; border:#999 1px solid;}
+input:hover {border:#09C 1px solid;}
+
+input[type="text"] { width:160px; height:22px; text-indent:5px; margin:1px; border:#999 1px solid;}
+input[type="text"]:hover {border:#09C 1px solid;}
+
+input[type="number"] { width:60px; height:22px; text-indent:10px; margin:1px; border:#999 1px solid;}
+input[type="number"]:hover {border:#09C 1px solid;}
+
+input[type="email"] { width:180px; height:22px; text-indent:5px; margin:1px; border:#999 1px solid;}
+input[type="email"]:hover {border:#09C 1px solid;}
+
+input[type="url"] { width:160px; height:22px; text-indent:5px; margin:1px; border:#999 1px solid;}
+input[type="url"]:hover {border:#09C 1px solid;}
+
+input[type="color"] { width:60px; height:22px; text-indent:5px; margin:1px; border:#999 1px solid;}
+input[type="color"]:hover {border:#09C 1px solid;}
+
+input[type=radio] {  opacity: 0;  margin-right: -12px;  cursor: pointer;  width: 12px;  height: 12px;}
+input[type=radio] + span:before {  content: " ";  background-color: #ccc;  display: inline-block;  margin-right: 15px;  width: 6px;  height: 6px;  border: 3px solid #fff;
+  -webkit-border-radius: 10px;  -moz-border-radius: 10px;  border-radius: 10px;  visibility: visible;  box-shadow: 0 0 0px 2px #999;}
+input[type=radio]:checked + span:before {  background-color: #052;}
+
+input[type=checkbox] {  opacity: 0;  margin-right: -12px;  cursor: pointer;  width: 12px;  height: 12px;}
+input[type=checkbox] + span:before {  content: "\00a0";  display: inline-block;  margin-right: 15px;  width: 12px;  height: 12px;  visibility: visible;  border: 2px dashed #999;
+  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 4px;  line-height: 12px;  font-size: 14px;  text-align: center;  font-weight: bold;  color: #052;}
+input[type=checkbox]:checked + span:before {  content: "\00d7";}
+
+select{ width:163px;  text-indent:1px; height:27px;   padding:3px 4px 3px 0px;  margin:1px; border:#999 1px solid;}
+select:hover {border:#09C 1px solid;}
+select option{ padding:5px;}
+select[disabled="disabled"] { background-color:#EEE;}
+
+
+textarea{  text-indent:1px;    padding:3px 4px 3px 0px;  margin:1px; border:#999 1px solid;}
+textarea:hover {border:#09C 1px solid;}
+textarea[disabled="disabled"] { background-color:#EEE;}

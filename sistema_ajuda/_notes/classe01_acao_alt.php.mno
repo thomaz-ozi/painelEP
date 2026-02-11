@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_alt" value="name:id_categoria;datatype:int,name:nome_categoria;datatype:string,name:descricao;datatype:string,name:meta_titulo;datatype:string,name:meta_description;datatype:string,name:meta_keywords;datatype:string,name:id_setor;datatype:int" />
+	<infoitem key="UD_list_setor" value="name:id_setor;datatype:int,name:nome_setor;datatype:string" />
+	<infoitem key="UD_list_acao" value="name:id_cascata01;datatype:int,name:nome;datatype:string,name:descricao;datatype:string,name:meta_titulo;datatype:string,name:meta_description;datatype:string,name:meta_keywords;datatype:string" />
+</info>

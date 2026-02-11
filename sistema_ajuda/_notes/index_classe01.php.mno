@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_acao" value="name:id_cascata01;datatype:int,name:nome;datatype:string,name:descricao;datatype:string,name:meta_titulo;datatype:string,name:meta_description;datatype:string,name:meta_keywords;datatype:string" />
+</info>
